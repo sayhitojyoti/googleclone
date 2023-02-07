@@ -1,0 +1,70 @@
+.background
+{
+height: 50%;
+width: 100%;
+background-position: 50%;
+position:fixed;
+background-repeat: no-repeat;
+
+
+}
+.googlesearch
+{
+    padding-top: 13%;
+text-align: center;
+}
+
+input{
+    /* border:none; */
+    padding-top:30px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    padding-left: 8px;
+    border: 1.5px solid #e8e8e8;
+    outline: 1.5px solid #e8e8e8;
+    
+
+}
+
+.myBox
+{
+    padding-top:15px;
+    
+}
+img{
+    width:270px;
+}
+
+.cur1
+{
+    cursor: pointer;
+}
+
+.cur2
+{
+    cursor: pointer;
+}
+
+button
+{  
+border-radius:4px;
+border:none;
+}
+button:hover
+{
+    border: 2px solid #e8e8e8;
+outline: 2px solid #e8e8e8;
+}
+.lang
+{
+padding-top:15px;
+font-size:14px;
+}
+.lang-inner
+{
+    color:#1A0DAB;
+}
+.btn
+{
+    padding-top: 15px;
+}
